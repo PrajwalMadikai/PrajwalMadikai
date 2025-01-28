@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/736x/35/75/a3/3575a3456a68e669e7268e3aee4be73e.jpg](https://i.pinimg.com/236x/90/70/32/9070324cdfc07c68d60eed0c39e77573.jpg))]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Factivecollab.com%2Fblog%2Fcollaboration%2Fday-in-life-web-developer&psig=AOvVaw36FgKO_fx_hA_rhtZ59rkq&ust=1738149179574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj4hrSkmIsDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Prajwal P</h1>
 <h3 align="center">A Aspiring MERN Stack Developer</h3>
 
