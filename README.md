@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Factivecollab.com%2Fblog%2Fcollaboration%2Fday-in-life-web-developer&psig=AOvVaw36FgKO_fx_hA_rhtZ59rkq&ust=1738149179574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj4hrSkmIsDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg)]
+
 <h1 align="center">Hi 👋, I'm Prajwal P</h1>
 <h3 align="center">A Aspiring MERN Stack Developer</h3>
 
