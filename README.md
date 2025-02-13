@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalmadikai&show_icons=true&locale=en" alt="prajwalmadikai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalmadikai&" alt="prajwalmadikai" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalMadikai)
+
