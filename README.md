@@ -21,7 +21,7 @@ const prajwal = {
     location: "India",
     currentFocus: "Full Stack Development",
     currentProject: "Collabdesk - Real-time Multi-user Collaboration Platform",
-    askMeAbout: ["JavaScript", "Next.js", "React", "Node.js", "MongoDB", "AWS"],
+    askMeAbout: ["JavaScript", "Next.js", "React", "Node.js", "Express.js". "MongoDB", "AWS"],
 };
 ```
 
